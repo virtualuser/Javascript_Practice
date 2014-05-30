@@ -1,0 +1,67 @@
+
+#pos1
+{
+	border-style: solid;
+	border-width: 1px;
+}
+
+#pos2
+{
+	border-style: solid;
+	border-width: 1px;
+}
+#pos3
+{
+	border-style: solid;
+	border-width: 1px;
+}
+#pos4
+{
+	border-style: solid;
+	border-width: 1px;
+}
+#pos5
+{
+	border-style: solid;
+	border-width: 1px;
+}
+#pos6
+{
+	border-style: solid;
+	border-width: 1px;
+}
+#pos7
+{
+	border-style: solid;
+	border-width: 1px;
+}
+#pos8
+{
+	border-style: solid;
+	border-width: 1px;
+}
+#pos9
+{
+	border-style: solid;
+	border-width: 1px;
+}
+
+
+#row1
+{
+	top: 10px;
+	left: 10px;
+	position: fixed;
+}
+#row2
+{
+	top: 75px;
+	left: 10px;
+	position: fixed;
+}
+#row3
+{
+	top: 140px;
+	left: 10px;
+	position: fixed;
+}
