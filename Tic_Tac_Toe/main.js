@@ -3,7 +3,7 @@ var pos1 = document.getElementById("pos1");
 
 pos1.onclick = function() 
 {
-	//alert(pos1.src);
+	alert(pos1.src);
 	var trim = pos1.src.substring(64, pos1.src.length);
 	if(trim == "empty.bmp")
 	{
