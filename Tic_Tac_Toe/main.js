@@ -4,7 +4,7 @@ var pos1 = document.getElementById("pos1");
 pos1.onclick = function() 
 {
 	alert(pos1.src);
-	var trim = pos1.src.substring(64, pos1.src.length);
+	var trim = pos1.src.substring(58, pos1.src.length);
 	if(trim == "empty.bmp")
 	{
 		pos1.src = 'X.bmp';
@@ -24,7 +24,7 @@ pos1.onclick = function()
 var pos2 = document.getElementById("pos2");
 
 pos2.onclick = function() {
-	var trim = pos2.src.substring(64, pos2.src.length);
+	var trim = pos2.src.substring(58, pos2.src.length);
 	if(trim == "empty.bmp")
 	{
 		pos2.src = 'X.bmp';
@@ -44,7 +44,7 @@ pos2.onclick = function() {
 var pos3 = document.getElementById("pos3");
 
 pos3.onclick = function() {
-	var trim = pos3.src.substring(64, pos3.src.length);
+	var trim = pos3.src.substring(58, pos3.src.length);
 	if(trim == "empty.bmp")
 	{
 		pos3.src = 'X.bmp';
@@ -64,7 +64,7 @@ pos3.onclick = function() {
 var pos4 = document.getElementById("pos4");
 
 pos4.onclick = function() {
-	var trim = pos4.src.substring(64, pos4.src.length);
+	var trim = pos4.src.substring(58, pos4.src.length);
 	if(trim == "empty.bmp")
 	{
 		pos4.src = 'X.bmp';
@@ -85,7 +85,7 @@ pos4.onclick = function() {
 var pos5 = document.getElementById("pos5");
 
 pos5.onclick = function() {
-	var trim = pos5.src.substring(64, pos5.src.length);
+	var trim = pos5.src.substring(58, pos5.src.length);
 	if(trim == "empty.bmp")
 	{
 		pos5.src = 'X.bmp';
@@ -106,7 +106,7 @@ pos5.onclick = function() {
 var pos6 = document.getElementById("pos6");
 
 pos6.onclick = function() {
-	var trim = pos6.src.substring(64, pos6.src.length);
+	var trim = pos6.src.substring(58, pos6.src.length);
 	if(trim == "empty.bmp")
 	{
 		pos6.src = 'X.bmp';
@@ -127,7 +127,7 @@ pos6.onclick = function() {
 var pos7 = document.getElementById("pos7");
 
 pos7.onclick = function() {
-	var trim = pos7.src.substring(64, pos7.src.length);
+	var trim = pos7.src.substring(58, pos7.src.length);
 	if(trim == "empty.bmp")
 	{
 		pos7.src = 'X.bmp';
@@ -147,7 +147,7 @@ pos7.onclick = function() {
 var pos8 = document.getElementById("pos8");
 
 pos8.onclick = function() {
-	var trim = pos8.src.substring(64, pos8.src.length);
+	var trim = pos8.src.substring(58, pos8.src.length);
 	if(trim == "empty.bmp")
 	{
 		pos8.src = 'X.bmp';
@@ -167,7 +167,7 @@ pos8.onclick = function() {
 var pos9 = document.getElementById("pos9");
 
 pos9.onclick = function() {
-	var trim = pos9.src.substring(64, pos9.src.length);
+	var trim = pos9.src.substring(58, pos9.src.length);
 	if(trim == "empty.bmp")
 	{
 		pos9.src = 'X.bmp';
